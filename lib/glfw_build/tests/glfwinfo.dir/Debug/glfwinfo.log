@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/domin/OneDrive/Stalinis kompiuteris/openglstuff/glfw-3.3.8/glfw-3.3.8/tests/CMakeLists.txt
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Generating Code...
+  glfwinfo.vcxproj -> C:\Users\domin\OneDrive\Stalinis kompiuteris\glfw_build\tests\Debug\glfwinfo.exe

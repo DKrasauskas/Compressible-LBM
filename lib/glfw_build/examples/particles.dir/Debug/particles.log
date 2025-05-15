@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/domin/OneDrive/Stalinis kompiuteris/openglstuff/glfw-3.3.8/glfw-3.3.8/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  particles.vcxproj -> C:\Users\domin\OneDrive\Stalinis kompiuteris\glfw_build\examples\Debug\particles.exe

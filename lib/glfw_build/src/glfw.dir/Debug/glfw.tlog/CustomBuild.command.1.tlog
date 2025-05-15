@@ -1,0 +1,10 @@
+^C:\USERS\DOMIN\ONEDRIVE\STALINIS KOMPIUTERIS\OPENGLSTUFF\GLFW-3.3.8\GLFW-3.3.8\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/domin/OneDrive/Stalinis kompiuteris/openglstuff/glfw-3.3.8/glfw-3.3.8" "-BC:/Users/domin/OneDrive/Stalinis kompiuteris/glfw_build" --check-stamp-file "C:/Users/domin/OneDrive/Stalinis kompiuteris/glfw_build/src/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

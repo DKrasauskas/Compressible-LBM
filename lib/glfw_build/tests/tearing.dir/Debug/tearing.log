@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/domin/OneDrive/Stalinis kompiuteris/openglstuff/glfw-3.3.8/glfw-3.3.8/tests/CMakeLists.txt
+  tearing.c
+  glad_gl.c
+  Generating Code...
+  tearing.vcxproj -> C:\Users\domin\OneDrive\Stalinis kompiuteris\glfw_build\tests\Debug\tearing.exe

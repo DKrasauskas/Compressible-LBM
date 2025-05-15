@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\domin\OneDrive\Stalinis kompiuteris\openglstuff\glfw-3.3.8\glfw-3.3.8\tests\triangle-vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\domin\OneDrive\Stalinis kompiuteris\openglstuff\glfw-3.3.8\glfw-3.3.8\deps\glad_vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\domin\OneDrive\Stalinis kompiuteris\openglstuff\glfw-3.3.8\glfw-3.3.8\deps\glad\vulkan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\domin\OneDrive\Stalinis kompiuteris\openglstuff\glfw-3.3.8\glfw-3.3.8\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{042B2937-6C79-3E5F-A7C0-D1163BE309BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{72BA91A4-6CBC-37CE-840D-40313DF2634B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
